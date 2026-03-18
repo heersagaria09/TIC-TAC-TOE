@@ -3,7 +3,6 @@ A command-line implementation of the classic Tic Tac Toe game built using Python
 ## Features
 
 * One-player game with Computer
-* Interactive board display
 * Win and draw detection
 
 ## Technology
